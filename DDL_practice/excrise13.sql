@@ -1,0 +1,2 @@
+ALTER TABLE Employee
+DROP CONSTRAINT Name;

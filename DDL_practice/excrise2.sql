@@ -1,0 +1,2 @@
+ALTER TABLE db;
+ADD Deperament VARCHAR(500)

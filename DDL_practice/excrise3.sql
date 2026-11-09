@@ -1,0 +1,2 @@
+ALTER TALE db
+MODIFY salary INT ;

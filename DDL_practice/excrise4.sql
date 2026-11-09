@@ -1,0 +1,2 @@
+ALTER TABLE db 
+DROP COLUMN Department;
