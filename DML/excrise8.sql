@@ -1,0 +1,6 @@
+UPDATE Employee
+SET Salary=CASE
+WHEN Age>0 THEN Salary+9000
+ELSE 
+Salary+9000
+END;
