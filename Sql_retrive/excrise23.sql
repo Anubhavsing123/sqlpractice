@@ -1,0 +1,2 @@
+USE NobelPrizeDB;
+SELECT * FROM NobelPrize WHERE SUBJECT NOT  LIKE 'P%';
